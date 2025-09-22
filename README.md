@@ -1,2 +1,6 @@
-# Base-Apparel-coming-soon-page
-Repositorio desafio Base Apparel coming soon page de front end mentor
+# Frontend Mentor - Base Apparel coming soon page
+
+![Design preview for the Base Apparel coming soon page coding challenge](preview.jpg)
+
+## Welcome! 👋
+
